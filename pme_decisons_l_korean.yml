@@ -12,8 +12,8 @@ decision_pme_resort_archipelago_desc:0 "이 행성에서 가장 바람직한 지
 decision_pme_space_elevator:0 "우주 엘리베이터 건설"
 decision_pme_space_elevator_desc:0 "훌륭한 우주 엘리베이터 건설을 시작하여 이 행성의 사람들에게 저렴한 우주 여행의 경이로움을 선사하고 물품 이동도 개선하세요."
 
-decision_pme_worldwide_maglev:0 "마그레브 네트워크 건설"
-decision_pme_worldwide_maglev_desc:0 "행성 표면 모든 주요 지점을 연결하는 자기 부상 철도의 상호 연결된 네트워크를 건설하십시오."
+decision_pme_worldwide_maglev:0 "자기 부상 연결망 건설"
+decision_pme_worldwide_maglev_desc:0 "행성 표면 모든 주요 지점을 연결하는 자기 부상 철도의 상호 연결된 연결망을 건설하십시오."
 
 decision_pme_planetary_irrigation_water:0 "행성 관개 건설"
 decision_pme_planetary_irrigation_water_desc:0 "세계적인 관개 및 수처리 네트워크를 건설하여 농장, 기업 및 가정에 끝없는 관리를 제공하세요."
@@ -50,6 +50,25 @@ decision_pme_orbital_colonies_desc:0 "행성 주위의 고궤도에 행성의 �
 
 decision_pme_polar_resource_silos:0 "극지 자원 사일로 건설"
 decision_pme_polar_resource_silos_desc:0 "이 행성의 극지방의 상당 부분을 차지하고 엄청난 양의 자원을 저장하는 데 필요한 금고, 창고 및 사일로를 건설하십시오."
+
+###########################
+### 승천 결정 ###
+###########################
+
+decision_pme_psionic_shroud_emitter:0 "사이오닉 장막 방출기 제작"
+decision_pme_psionic_shroud_emitter_desc:0 "우리 종족의 타고난 사이오닉 능력을 발견한 직후 우리의 가장 위대한 엔지니어들은 전 세계의 사회적 결속력을 향상시킬 수 있는 믿을 수 없을 만큼 강력한 방사체에 대한 꿈을 꾸기 시작했습니다. 이것은 그들의 노력의 결과이며, 즈로로 대기를 조성하여 이 세계의 대중에게 힘을 실어주고 안심시켜 줍니다."
+
+decision_pme_gene_preservation_vaults:0 "유전자 보존 금고 구축"
+decision_pme_gene_preservation_vaults_desc:0 "우리가 유전 공학을 터득한 후 과학자들은 유전자의 개선과 보존을 전담하는 새로운 최첨단 시설이 필요하다는 결론에 빠르게 도달했습니다. 이 시설은 그러한 요구와 그 이상을 충족합니다. 이 행성의 인구는 결코 질병, 돌연변이 또는 장애로 고통받지 않을 것이며 우리의 가장 위대한 지도자들은 이 시설을 활용하여 자신의 능력을 향상시킬 수도 있습니다."
+
+decision_pme_orbital_robotics_assembly_labs:0 "궤도 로봇 조립 연구소 구축"
+decision_pme_orbital_robotics_assembly_labs_desc:0 "우리 제국은 생명을 합성체에 완전히 이식했고, 따라서 우리는 전 인구에게 합성 신체를 제공하기 위해 공장, 실험실 및 조립 라인이 필요합니다. 이 궤도 조립 라인이 바로 그것을 제공할 것입니다."
+
+decision_pme_machine_orbital_robotics_assembly_labs:0 "궤도 로봇 조립 연구소 구축"
+decision_pme_machine_orbital_robotics_assembly_labs_desc:0 "단조, 조선소, 광산 및 기타 여러 산업 분야들은 더 많은 노동 드론이 필요합니다. 이러한 시설은 해당 유닛을 빠르고 효율적으로 생산할 것입니다."
+
+decision_pme_cybernetics_uplink_facility:0 "사이버네틱 업링크 시설 구축"
+decision_pme_cybernetics_uplink_facility_desc:0 "우리 종족이 사이버네틱을 받아들였을 때, 우리의 증강을 더욱 강력하게 추진하고 더 많이 활용할 수 있다는 것이 분명해졌습니다. 이 시설은 이 행성의 인구가 그렇게 할 수 있도록 허용할 것입니다."
 
 
 

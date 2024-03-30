@@ -55,6 +55,25 @@ pme_d_orbital_colonies_desc:0 "행성 메가 프로젝트입니다. 이 행성�
 pme_d_polar_resource_silos:0 "극지 자원 사일로"
 pme_d_polar_resource_silos_desc:0 "행성 메가 프로젝트입니다. 이 거대한 저장 사일로, 금고 및 창고는 이 행성에서 점점 증가하는 재료 저장 수요를 충족하기 위해 건설되었습니다. 전체 단지는 잘 훈련된 병사들의 소규모 군대와 비슷한 수의 노동자와 사무원이 현장에서 들어오고 나가는 모든 것을 추적합니다."
 
+##########################
+### Ascendant Deposits ###
+##########################
+
+pme_d_psionic_shroud_emitter:0 "사이오닉 장막 방출기"
+pme_d_psionic_shroud_emitter_desc:0 "행성 메가 프로젝트입니다. 상상할 수 없을 정도로 높은 이 타워는 행성 대기에 미세한 즈로 먼지 안개를 심습니다. 먼지는 눈에 띄기에는 너무 미세하며 모든 것에 침투하여 이 세계의 인구에게 상당한 힘을 실어줍니다. 게다가, 타워 자체에는 대규모 텔레파시 부대가 배치되어 있습니다."
+
+pme_d_gene_preservation_vaults:0 "유전자 보존 금고"
+pme_d_gene_preservation_vaults_desc:0 "행성 메가 프로젝트입니다. 이 행성의 유전자 보존 금고는 누구에게도 뒤지지 않습니다. 이 세계의 인구를 복제하고 치료하는 데 사용되는 유전적 자원의 저장, 목록 작성 및 개선을 촉진합니다. 결과적으로 대중은 생산성이 훨씬 높아졌습니다."
+
+pme_d_orbital_robotics_assembly_labs:0 "궤도 로봇 조립 연구소"
+pme_d_orbital_robotics_assembly_labs_desc:0 "행성 메가 프로젝트입니다. 이 궤도 연구소는 이 행성에서 로봇 사회를 유지하고 성장시키는 데 필요한 수많은 합성 프레임을 제조합니다."
+
+pme_d_machine_orbital_robotics_assembly_labs:0 "궤도 로봇 조립 연구소"
+pme_d_machine_orbital_robotics_assembly_labs_desc:0 "행성 메가 프로젝트입니다. 이 궤도 연구소는 이 행성에서 로봇 사회를 유지하고 성장시키는 데 필요한 수많은 합성 프레임을 제조합니다."
+
+pme_d_cybernetics_uplink_facility:0 "사이버네틱 업링크 시설"
+pme_d_cybernetics_uplink_facility_desc:0 "행성 메가 프로젝트입니다. 이 시설은 행성 인구의 사이버네틱을 고유한 생물학적 특성과 특성에 맞게 미세 조정하는 데 도움이 됩니다. 결과적으로 어떤 수준의 사이버네틱을 설치한 사람이라도 사이버네틱 강화를 추구 시 향상된 생산성 수준의 혜택을 누릴 수 있습니다."
+
 ####################
 ### Technologies ###
 ####################
@@ -63,11 +82,13 @@ tech_pme_rudimentary_planetary_mega_engineering:0 "기초 행성 메가 엔지�
 tech_pme_rudimentary_planetary_mega_engineering_desc:0 "우리 엔지니어들이 오랫동안 꿈꿔 왔던 행성에 걸친 엔지니어링 프로젝트를 만들기 위해서는 그러한 대규모 사업에 필요한 재료를 발견해야 합니다. 이 프로젝트는 행성 메가 엔지니어링을 마스터한다는 목표를 향한 첫 번째 단계입니다."
 
 tech_pme_intermediate_planetary_mega_engineering:0 "중급 행성 메가 엔지니어링"
-tech_pme_intermediate_planetary_mega_engineering_desc:0 "가장 거친 행성의 꿈을 실현하기 위한 두 번째 단계가 우리에게 있습니다. 우리는 산업 및 경제 부문을 이러한 대규모 프로젝트에 통합하여 이전과는 전혀 다른 방식으로 두 가지가 모두 번성하도록 장려하는 방법을 배워야 합니다."
+tech_pme_intermediate_planetary_mega_engineering_desc:0 "우리 행성의 가장 야성적인 꿈을 실현하기 위한 두번째 단계에 진입했습니다. 우리는 산업 및 경제 부문을 이러한 대규모 프로젝트에 통합하여 두 분야가 이전과는 전혀 다른 방식으로 번영하도록 장려하는 방법을 배워야 합니다."
 
 tech_pme_advanced_planetary_mega_engineering:0 "고급 행성 메가 엔지니어링"
-tech_pme_advanced_planetary_mega_engineering_desc:0 "이것이 바로 그것입니다. 이 프로젝트를 통해 우리는 이전에 볼 수 없었던 초대형 행성 공학 프로젝트에 대한 사회적 요구 사항을 연구할 것입니다. 그것이 행성 사회에 미치는 영향은 엄청날 것이며 우리 제국은 그러기엔 더 강해졌어."
+tech_pme_advanced_planetary_mega_engineering_desc:0 "이거에요. 이 프로젝트를 통해 우리는 이전에 볼 수 없었던 초대형 행성 공학 프로젝트에 대한 사회적 요구 사항을 연구할 것입니다. 행성 사회에 대해 이 일이 미치는 영향은 엄청날 것이며 우리 제국은 더욱 강력해질 것입니다."
 
+tech_pme_ascendant_planetary_mega_engineering:0 "승천 행성 메가 엔지니어링"
+tech_pme_ascendant_planetary_mega_engineering_desc:0 "우리는 승천했습니다. 우리의 옛 삶은 지금 거의 상상할 수 없을 정도로 멀어졌고 우리 사회의 가장 위대한 엔지니어링 프로젝트는 그 현실을 반영해야 합니다. 이 프로젝트는 우리 제국이 건설할 가장 위대한 구조물 중 일부를 위한 기초를 마련할 것입니다."
 
 
 
