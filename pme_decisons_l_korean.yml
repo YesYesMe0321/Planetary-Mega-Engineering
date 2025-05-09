@@ -3,6 +3,9 @@
 decision_pme_mini_ecumenopolis:0 "수도 에큐메노폴리스 건설"
 decision_pme_mini_ecumenopolis_desc:0 "모든 정부 기능을 수용하는 동시에 상당한 인구를 수용할 수 있는 소형 에큐메노폴리스 구역 건설을 착수합니다. 많은 상업 공간도 제공됩니다."
 
+decision_pme_fleet_academy:0 "대함대 장교 아카데미 건설"
+decision_pme_fleet_academy_desc:0 "이 사회가 제공할 수 있는 최고의 함대 장교 후보들을 훈련시키기 위한 아카데미를 건설하고 설립합니다."
+
 decision_pme_university_cityscape:0 "대학 도시 건설"
 decision_pme_university_cityscape_desc:0 "대도시 규모의 대학 건설에 자금을 지원하여 지구상의 모든 시민에게 최고 품질의 무료 교육을 제공합니다."
 
@@ -15,7 +18,7 @@ decision_pme_space_elevator_desc:0 "훌륭한 우주 엘리베이터 건설을 �
 decision_pme_worldwide_maglev:0 "자기 부상 연결망 건설"
 decision_pme_worldwide_maglev_desc:0 "행성 표면 모든 주요 지점을 연결하는 자기 부상 철도의 상호 연결된 연결망을 건설하십시오."
 
-decision_pme_planetary_irrigation_water:0 "행성 관개 시설 건설"
+decision_pme_planetary_irrigation_water:0 "행성 관개 건설"
 decision_pme_planetary_irrigation_water_desc:0 "세계적인 관개 및 수처리 네트워크를 건설하여 농장, 기업 및 가정에 끝없는 관리를 제공하세요."
 
 decision_pme_mining_construction:0 "광업 및 건설 단지 건설"
@@ -61,6 +64,9 @@ decision_pme_machine_global_management_nexus_desc:0 "이 행성의 글로벌 운
 decision_pme_machine_orbital_colonies:0 "궤도 식민지 건설"
 decision_pme_machine_orbital_colonies_desc:0 "행성의 고궤도에 일련의 거대 우주 서식지를 건설하여 늘어나는 드론들에게 주거 공간을 제공하고, 행성 표면에서 자원 생산을 위한 땅을 확보합니다."
 
+decision_pme_machine_fleet_coordination_systems:0 "함대 조정 시스템 건설"
+decision_pme_machine_fleet_coordination_systems_desc:0 "은하계 전역의 모든 태양계에서 함대 작전을 지원하는 데 필요한 서버와 수많은 양자 통신 배열을 수용할 시설을 건설합니다."
+
 decision_pme_machine_continental_computing_system:0 "대륙 컴퓨팅 시스템 건설"
 decision_pme_machine_continental_computing_system_desc:0 "우주의 신비를 탐구하는 데 전념하는, 대륙 전체의 표면 밑을 가로지르는 컴퓨팅 시스템을 구축합니다."
 
@@ -99,6 +105,58 @@ decision_pme_machine_planetary_water_processing_desc:0 "전 세계적인 수처�
 
 decision_pme_machine_planetary_fusion_grid:0 "행성 핵융합 그리드 건설"
 decision_pme_machine_planetary_fusion_grid_desc:0 "행성 표면 전체에 걸쳐 전략적이며 강화된 지점에 일련의 핵융합 발전소를 건설합니다."
+
+######################
+### Hive Decisions ###
+######################
+
+decision_pme_hive_planetary_coordination_nodes:0 "행성 조정 노드 건설"
+decision_pme_hive_planetary_coordination_nodes_desc:0 "이 행성의 드론 인구의 조정을 크게 개선할 일련의 연결된 신경 노드를 건설합니다."
+
+decision_pme_hive_orbital_colonies:0 "궤도 식민지 건설"
+decision_pme_hive_orbital_colonies_desc:0 "이 행성의 계속 증가하는 드론 인구의 상당 부분을 수용할 거대한 우주 정거장들을 제작합니다."
+
+decision_pme_hive_fleet_coordination_nexus:0 "함대 조정 넥서스 건설"
+decision_pme_hive_fleet_coordination_nexus_desc:0 "군체의 해군 함대의 개선된 조정을 촉진하기 위한 복합체를 건설하여, 통신, 계산 등을 개선합니다."
+
+decision_pme_hive_collective_computing_consciousness:0 "집단 컴퓨팅 의식 시설 건설"
+decision_pme_hive_collective_computing_consciousness_desc:0 "우주에 대한 더 큰 이해를 추구하는 수많은 드론들의 집단 두뇌 능력을 조정할 드론 무리를 수용할 시설을 건설합니다."
+
+decision_pme_hive_consciousness_synchronization_lattice:0 "의식 동기화 격자 건설"
+decision_pme_hive_consciousness_synchronization_lattice_desc:0 "의식 동기화 격자의 행성 전체를 가로지르는 프레임워크를 건설합니다. 이 격자는 이 행성의 군체의 응집력을 크게 개선할 것입니다."
+
+decision_pme_hive_space_elevator:0 "우주 엘리베이터 건설"
+decision_pme_hive_space_elevator_desc:0 "드론과 자재를 궤도로 그리고 궤도에서 이동하는 비용을 크게 줄이기 위해 거대한 우주 엘리베이터의 동시 건설을 착수합니다."
+
+decision_pme_hive_neural_regulation_nexus:0 "신경 조절 넥서스 건설"
+decision_pme_hive_neural_regulation_nexus_desc:0 "이 행성의 일탈 드론들을 수용할 거대한 시설을 건설하여, 가능하다면 그들을 재통합합니다."
+
+decision_pme_hive_supplemental_breeding_pools:0 "보조 번식 풀 건설"
+decision_pme_hive_supplemental_breeding_pools_desc:0 "행성 표면의 신중하게 선택된 위치에 다수의 보조 번식 풀을 지원하는 데 필요한 인프라를 건설합니다."
+
+decision_pme_hive_subsurface_megaforges:0 "지하 메가포지"
+decision_pme_hive_subsurface_megaforges_desc:0 "동굴을 발굴하고 요새화하며, 그 동굴 안에 군체에 고품질 합금의 거의 끝없는 흐름을 공급할 거대한 용광로들을 건설합니다."
+
+decision_pme_hive_chemical_hazardous_goods:0 "위험 물질 처리 초대형 공장 건설"
+decision_pme_hive_chemical_hazardous_goods_desc:0 "군체가 필요로 하고 사용하는 모든 위험 물품을 처리, 재활용 또는 저장할 수 있는 광대한 시설을 건설합니다."
+
+decision_pme_hive_orbital_defense_grid:0 "궤도 방어망 건설"
+decision_pme_hive_orbital_defense_grid_desc:0 "이 세계를 어떤 형태의 외부 위협으로부터도 방어할 수많은 방어 플랫폼들을 건설합니다."
+
+decision_pme_hive_worldwide_maglev:0 "세계적 자기 부상 시스템 건설"
+decision_pme_hive_worldwide_maglev_desc:0 "자재와 드론의 표면 이동 비용을 줄이기 위해 행성 전체를 가로지르는 자기부상 레일 시스템을 건설합니다."
+
+decision_pme_hive_polar_resource_silos:0 "극지 자원 사일로 건설"
+decision_pme_hive_polar_resource_silos_desc:0 "이 행성이 최적으로 기능하는 데 필요한 산더미 같은 자재와 자원을 저장할 창고, 사일로 및 금고를 건설합니다. 또한 봉쇄나 다른 극단적인 상황에 대비한 비상 비축량도 저장합니다."
+
+decision_pme_hive_mineral_extraction_warrens:0 "광물 추출 굴 건설"
+decision_pme_hive_mineral_extraction_warrens_desc:0 "정교하고 대규모의 광물 추출 작업을 가능하게 하기 위해 행성 지각 전체에 걸쳐 예비 갱도, 터널 및 갤러리를 발굴하고 지도화합니다."
+
+decision_pme_hive_nutrient_processing_megaplant:0 "영양소 처리 초대형 공장 건설"
+decision_pme_hive_nutrient_processing_megaplant_desc:0 "이 세계의 드론들이 항상 적절하게 영양을 공급받을 수 있도록 거대한 식품 가공 공장을 건설합니다."
+
+decision_pme_hive_planetary_fusion_grid:0 "행성 핵융합 그리드 건설"
+decision_pme_hive_planetary_fusion_grid_desc:0 "이 행성 주변의 전략적 위치에 일련의 고용량 핵융합 발전소를 건설하여 어떤 지역도 전력 부족을 겪지 않도록 합니다."
 
 ###########################
 ### 승천 결정 ###

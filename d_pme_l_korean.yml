@@ -13,6 +13,9 @@ pme_d_worldwide_maglev_desc:0 "행성 메가 프로젝트입니다. 이 세계�
 pme_d_planetary_irrigation_water:0 "행성 관개 및 수처리"
 pme_d_planetary_irrigation_water_desc:0 "행성 메가 프로젝트입니다. 전세계에 걸친 매우 효율적인 수처리 및 분배 시스템이죠. 지상해 산재해 있는 수많은 시설들이 농업, 공공기관, 민간의 물 수요가 항상 충족되도록 보장합니다."
 
+pme_d_fleet_academy:0 "§E대함대 장교 아카데미"
+pme_d_fleet_academy_desc:0 "Si Vis Pacem, Para Bellum는 이 사회의 역사에서 온 오래된 문구입니다. '평화의 시대에 전쟁을 준비하라'라는 의미입니다. 이 아카데미는 그 원칙의 증거로 서 있으며, 은하계 최고의 함대 장교와 제독들을 훈련시킵니다."
+
 pme_d_university_cityscape:0 "§E대학 도시"
 pme_d_university_cityscape_desc:0 "행성 메가 프로젝트입니다. 이 도시는 고등 교육을 유일한 목적으로 설계됐으며 그 역할은 훌륭하게 수행됩니다. 도시는 일부 상업 및 주거 공간을 포함하지만 학생과 교직원을 행복하게 유지하는 데 필요한 만큼만 포함합니다."
 
@@ -65,6 +68,9 @@ pme_d_machine_global_management_nexus_desc:0 "이 행성의 기계 관리 시스
 pme_d_machine_orbital_colonies:0 "§E궤도 식민지"
 pme_d_machine_orbital_colonies_desc:0 "이 행성의 드론 수가 증가함에 따라 현재 활성화되지 않은 유닛의 효율적인 저장을 위해 다중 궤도 서식지를 건설하는 것이 적합하다고 합의되었습니다. 그 결과, 이 행성은 주택 수용 능력이 증가하고 지표면 생산 전용 구역을 위한 더 많은 공간을 갖게 되었습니다."
 
+pme_d_machine_fleet_coordination_systems:0 "§E함대 조정 시스템"
+pme_d_machine_fleet_coordination_systems_desc:0 "견고한 기반암 위에 세워지고 깊숙이 뚫린 이 시설은 해군 함대의 계산, 기동 및 목표 획득을 지원하여 눈에 띄는 수준으로 성능을 향상시킵니다. 이는 모든 함선에 양자 통신기를 장착하여 무제한 거리에서 즉각적인 정보 전송을 가능하게 함으로써 달성됩니다."
+
 pme_d_machine_continental_computing_system:0 "§E대륙 컴퓨팅 시스템"
 pme_d_machine_continental_computing_system_desc:0 "이 행성의 한 대륙 아래에는 거대한 연결된 초고속 컴퓨팅 복합체의 격자가 있어, 계산 드론 군단이 방해받지 않고 그들의 일을 할 수 있는 필요한 공간과 장비를 제공합니다."
 
@@ -104,6 +110,58 @@ pme_d_machine_planetary_water_processing_desc:0 "이 종의 로봇적 특성에�
 pme_d_machine_planetary_fusion_grid:0 "행성 핵융합 그리드"
 pme_d_machine_planetary_fusion_grid_desc:0 "이 로봇 사회의 모든 측면에 충분한 에너지를 보장하기 위해, 행성 표면 전역에 고출력 융합 반응로 시리즈가 건설되었습니다. 그 결과 견고한 전력망이 형성되어, 이 세계의 산업이 직접적인 공격을 받더라도 계속해서 기능할 수 있습니다."
 
+#####################
+### Hive Deposits ###
+#####################
+
+pme_d_hive_planetary_coordination_nodes:0 "§E행성 조정 노드"
+pme_d_hive_planetary_coordination_nodes_desc:0 "이 노드들에서 군체는 집단 행동을 정밀하게 조정하여, 전문 드론의 효율성과 행성 군체 전체의 응집력을 향상시켜 훨씬 더 생산적인 초유기체를 만들어냅니다."
+
+pme_d_hive_orbital_colonies:0 "§E궤도 식민지 건설"
+pme_d_hive_orbital_colonies_desc:0 "이 행성의 계속 증가하는 드론 인구를 유지하기 위해, 군체는 궤도에 일련의 서식지를 건설했습니다. 이들은 더 많은 주거 공간과 일자리를 제공하지만, 무엇보다도 행성 표면에 추가 산업을 위한 상당한 공간을 확보해줍니다."
+
+pme_d_hive_fleet_coordination_nexus:0 "§E함대 조정 넥서스"
+pme_d_hive_fleet_coordination_nexus_desc:0 "이 넥서스는 함대 작전이 수행되고 이해되는 방식을 근본적으로 바꿀 수 있는 수단을 제공합니다. 군체의 함대가 은하계 어디에 있든 상관없이 통신, 계산 및 성능을 크게 향상시킵니다. 이 복합체는 매우 견고하게 요새화되어 있으며, 충분한 인력이 배치되어 있고 세심하게 유지됩니다."
+
+pme_d_hive_collective_computing_consciousness:0 "§E집단 컴퓨팅 의식"
+pme_d_hive_collective_computing_consciousness_desc:0 "수많은 드론들의 집단 신경 능력을 통해, 이 시설은 더 넓은 군체의 우주에 대한 이해와 그것을 자신의 목적에 맞게 조작하는 방법에 크게 기여합니다. 이를 달성하기 위해, 이 임무에 전념하는 드론들은 동등한 지위의 드론들보다 훨씬 더 많은 식량과 편의 시설을 제공받습니다."
+
+pme_d_hive_consciousness_synchronization_lattice:0 "§E의식 동기화 격자"
+pme_d_hive_consciousness_synchronization_lattice_desc:0 "이 행성 전체에 걸친 연결 지점, 휴식소 및 급식 갤러리의 네트워크는 드론의 생산성을 최대화하고 군체 내에서 더 나은 조정을 가능하게 하기 위해 표면에 최적으로 분산되어 있습니다."
+
+pme_d_hive_space_elevator:0 "§E우주 엘리베이터"
+pme_d_hive_space_elevator_desc:0 "이 우뚝 솟은 우주 엘리베이터는 군체가 제품, 자원 및 드론을 행성 표면에서 우주로, 그리고 다시 돌아오는 것을 빠르게 운송할 수 있게 합니다. 이 모든 것이 다른 어떤 방법보다 훨씬 적은 비용으로 달성되어, 결과적으로 생산량이 크게 증가합니다."
+
+pme_d_hive_neural_regulation_nexus:0 "신경 조절 넥서스"
+pme_d_hive_neural_regulation_nexus_desc:0 "이 거대하고 매우 안전한 시설은 이 행성에서 계속 증가하는 일탈 드론들을 관리하기 위해 건설되었습니다. 드론이 얼마나 일탈했는지에 따라, 그것은 더 큰 군체에 재통합되거나 단순히 제거됩니다."
+
+pme_d_hive_supplemental_breeding_pools:0 "보조 번식 풀"
+pme_d_hive_supplemental_breeding_pools_desc:0 "이 광대한 구조물은 어떤 상황에서도 이 행성의 계속 증가하는 드론 수요가 충족되도록 보장하기 위해 건설되었습니다. 수많은 드론들이 밤낮으로 일하여 풀이 매 주기마다 새로운, 완전히 성장한 드론들이 서비스에 들어갈 수 있도록 충분한 필수 영양소를 공급받도록 합니다."
+
+pme_d_hive_subsurface_megaforges:0 "지하 메가포지"
+pme_d_hive_subsurface_megaforges_desc:0 "이 거대한 용광로들은 이 행성과 더 큰 군체에 항상 수요가 있는 고품질 합금을 공급하기 위해 건설되었습니다. 용광로들은 품질이 유지되도록 유지보수를 위해 가끔씩만 중단되는 것을 제외하고는 24시간 내내 드론 무리들이 작업합니다."
+
+pme_d_hive_chemical_hazardous_goods:0 "위험 물질 처리 초대형 공장"
+pme_d_hive_chemical_hazardous_goods_desc:0 "군체가 광대한 네트워크 전반에 걸쳐 사용하는 가장 위험한 물품들을 저장, 처리 및 재활용하는 데 필요한 모든 산업 장비를 수용하는 광대한 시설입니다. 군체의 다른 필요를 위해 환경을 활용할 수 있도록 주변 환경에 미치는 영향을 제한하기 위한 노력이 이루어집니다."
+
+pme_d_hive_orbital_defense_grid:0 "궤도 방어망"
+pme_d_hive_orbital_defense_grid_desc:0 "행성과 그 표면의 믿을 수 없을 정도로 중요한 산업 시설을 보호하기 위해, 이 방어 위성과 정거장의 궤도 네트워크가 건설되었습니다. 거의 중복될 정도로 겹치는 발사 각도로 세심하게 계획된 이 행성은 적이 던지는 어떤 것도 견딜 수 있습니다."
+
+pme_d_hive_worldwide_maglev:0 "세계적 자기 부상 시스템"
+pme_d_hive_worldwide_maglev_desc:0 "상호 연결된 자기부상선의 그물망이 이 행성의 모든 구석을 가로지릅니다. 드론과 자재를 모두 운송하는 이 교통 네트워크는 가장 단순한 상품부터 가장 복잡한 기술까지의 비용과 생산 시간을 단축합니다."
+
+pme_d_hive_polar_resource_silos:0 "극지 자원 사일로"
+pme_d_hive_polar_resource_silos_desc:0 "이 행성이 필요로 하는 거대한 자원 비축량을 저장하고 비상 상황에서 부족이 없도록 하기 위해, 이 행성의 극지가 대부분 거대한 사일로, 금고 및 창고로 덮여 있습니다. 또한, 드론 군대가 여기에 저장된 물품들을 분류하고, 유지하고, 운송하기 위해 끊임없이 일합니다."
+
+pme_d_hive_mineral_extraction_warrens:0 "광물 추출 워렌"
+pme_d_hive_mineral_extraction_warrens_desc:0 "군체에 의해 '추출 워렌'이라고 통칭되는 이 갱도, 터널 및 갤러리의 네트워크는 군체가 행성 지각에서 엄청난 양의 광물 자원을 추출할 수 있게 합니다. 그 결과, 행성 표면에 구조물을 건설하는 데 걸리는 시간과 유지 비용이 크게 감소합니다."
+
+pme_d_hive_nutrient_processing_megaplant:0 "영양소 처리 초대형 공장"
+pme_d_hive_nutrient_processing_megaplant_desc:0 "이 거대한 식품 가공 공장은 이 행성과 그 너머의 드론들을 위해 봉사합니다. 식물이나 동물 물질에서 최고 품질의 영양소를 생산하며, 군체의 집단 생존에 기여하지 않는 모든 것이 식품으로 가공되어 군체의 끝없는 성장을 유지합니다."
+
+pme_d_hive_planetary_fusion_grid:0 "행성 핵융합 그리드"
+pme_d_hive_planetary_fusion_grid_desc:0 "행성 표면 전역의 전략적이고 잘 요새화된 위치에는 수많은 고효율 핵융합 발전소가 있으며, 세심하게 유지되고 완벽하게 조정되어 있습니다. 번식 풀의 기후 조절부터 급식관에 지속적인 영양소 공급을 보장하는 펌프까지, 이 세계의 모든 측면에 전력을 공급하여 군체가 결코 에너지 부족을 겪지 않도록 합니다."
+
 ##########################
 ### Ascendant Deposits ###
 ##########################
@@ -122,29 +180,4 @@ pme_d_machine_orbital_robotics_assembly_labs_desc:0 "행성 메가 프로젝트�
 
 pme_d_cybernetics_uplink_facility:0 "사이버네틱 업링크 시설"
 pme_d_cybernetics_uplink_facility_desc:0 "행성 메가 프로젝트입니다. 이 시설은 행성 인구의 사이버네틱을 고유한 생물학적 특성과 특성에 맞게 미세 조정하는 데 도움이 됩니다. 결과적으로 어떤 수준의 사이버네틱을 설치한 사람이라도 사이버네틱 강화를 추구 시 향상된 생산성 수준의 혜택을 누릴 수 있습니다."
-
-####################
-### Technologies ###
-####################
-
-tech_pme_rudimentary_planetary_mega_engineering:0 "기초 행성 메가 엔지니어링"
-tech_pme_rudimentary_planetary_mega_engineering_desc:0 "우리 엔지니어들이 오랫동안 꿈꿔 왔던 행성에 걸친 엔지니어링 프로젝트를 만들기 위해서는 그러한 대규모 사업에 필요한 재료를 발견해야 합니다. 이 프로젝트는 행성 메가 엔지니어링을 마스터한다는 목표를 향한 첫 번째 단계입니다."
-
-tech_pme_intermediate_planetary_mega_engineering:0 "중급 행성 메가 엔지니어링"
-tech_pme_intermediate_planetary_mega_engineering_desc:0 "우리 행성의 가장 야성적인 꿈을 실현하기 위한 두번째 단계에 진입했습니다. 우리는 산업 및 경제 부문을 이러한 대규모 프로젝트에 통합하여 두 분야가 이전과는 전혀 다른 방식으로 번영하도록 장려하는 방법을 배워야 합니다."
-
-tech_pme_advanced_planetary_mega_engineering:0 "고급 행성 메가 엔지니어링"
-tech_pme_advanced_planetary_mega_engineering_desc:0 "이거에요. 이 프로젝트를 통해 우리는 이전에 볼 수 없었던 초대형 행성 공학 프로젝트에 대한 사회적 요구 사항을 연구할 것입니다. 행성 사회에 대해 이 일이 미치는 영향은 엄청날 것이며 우리 제국은 더욱 강력해질 것입니다."
-
-tech_pme_ascendant_planetary_mega_engineering:0 "승천 행성 메가 엔지니어링"
-tech_pme_ascendant_planetary_mega_engineering_desc:0 "우리는 승천했습니다. 우리의 옛 삶은 지금 거의 상상할 수 없을 정도로 멀어졌고 우리 사회의 가장 위대한 엔지니어링 프로젝트는 그 현실을 반영해야 합니다. 이 프로젝트는 우리 제국이 건설할 가장 위대한 구조물 중 일부를 위한 기초를 마련할 것입니다."
-
-
-
-
-
-
-
-
-
 

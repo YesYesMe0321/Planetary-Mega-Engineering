@@ -1,0 +1,17 @@
+﻿l_korean:
+
+################
+### Blockers ###
+################
+
+pme_b_rudimentary_planetary_megastructure_ruins:0 "단순한 행성 거대 구조물 유적"
+pme_b_rudimentary_planetary_megastructure_ruins_desc:0 "이것은 한때 어떤 종류의 행성 거대 구조물이었을 것입니다. 그것을 파괴한 것이 가치 있는 것들을 거의 남기지 않았습니다."
+
+pme_b_intermediate_planetary_megastructure_ruins:0 "일반적인 행성 거대 구조물 유적"
+pme_b_intermediate_planetary_megastructure_ruins_desc:0 "이것은 한때 상대적으로 복잡한 행성 거대 구조물이었습니다. 파괴되었지만, 여전히 가치 있는 자재들과 건설에 관한 잠재적인 데이터가 남아있습니다."
+
+pme_b_advanced_planetary_megastructure_ruins:0 "고급 행성 거대 구조물 유적"
+pme_b_advanced_planetary_megastructure_ruins_desc:0 "이 유적은 한때 매우 진보된 행성 거대 구조물이었습니다. 현재 상태에서도 유적에서 많은 가치 있는 자원과 풍부한 잠재적 데이터를 찾을 수 있습니다."
+
+pme_b_ascendant_planetary_megastructure_ruins:0 "초월적 행성 거대 구조물 유적"
+pme_b_ascendant_planetary_megastructure_ruins_desc:0 "한때 행성 거대 공학의 빛나는 등대였던 이 유적이 남아있습니다. 대부분 파괴되었지만, 이 거대한 시설은 너무 잘 건설되어 일부 구역이 비교적 온전하게 남아있습니다. 그 결과, 상당한 양의 자원을 회수할 수 있고, 그 유적에서 거의 무한한 통찰력을 얻을 수 있습니다."
